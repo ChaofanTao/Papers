@@ -1,3 +1,1 @@
-#2019/3/5下午
-测试一下
-For papers.
+This repository contained some selected papers that I thought as the inspirational works done in the field of machine learning and artificial intelligence.
